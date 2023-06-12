@@ -1,0 +1,11 @@
+[user]
+	name = Thomas LATAS
+	email = atlas-jb@hotmail.fr
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
